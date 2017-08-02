@@ -87,7 +87,7 @@ call s:highlight("TabLineFill",   s:NONE,          s:NONE,          "NONE")
 call s:highlight("Visual",      s:NONE,          s:LIGHTER_GREY,    "NONE")
 call s:highlight("VisualNOS",   s:NONE,          s:BRIGHT_BLACK,    "NONE")
 call s:highlight("MatchParen",  s:NONE,          s:BRIGHT_BLACK,    "NONE")
-call s:highlight("Search",      s:NONE,          s:DARK_SEA_GREEN,  "NONE")
+call s:highlight("Search",      s:NONE,          s:NONE,         "REVERSE")
 call s:highlight("Folded",      s:BRIGHT_BLACK,  s:NONE,            "NONE")
 
 " Menus
